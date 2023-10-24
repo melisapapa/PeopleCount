@@ -1,0 +1,61 @@
+button{
+    font-size:2em; 
+    color: rgb(0, 5, 5);
+    border-radius: 50px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-bottom: 1em;
+    display: block;
+    
+    
+}
+
+.butonat{
+    width: 40%;
+    background-color: blue;display: inline-block;
+    text-align: center;
+    
+    display:inline-block ;
+}
+
+.save{
+    width: 40%;
+    background-color: blue;
+    text-align: center;
+    float: right;
+}
+
+body{
+    font-size: 2em;
+    margin: 1px 1em 0 5em;
+    background-color: cornflowerblue
+    ;
+    
+}
+div{
+    padding-top: 1em;
+}
+h2{
+   border-style: double;
+   padding-left: 2em;
+   padding-right: 2em;
+   margin-right: 40%;
+   margin-left: 40%;
+   text-align: center;
+    color:black;
+    background-color: cornsilk;
+
+}
+textarea{
+    display: inline-block;
+    margin: 3em 30% 0 25%;
+    background-color:blue;
+    color: lavender;
+    width: 50%;
+    font-size: 1.5em;
+    border-style:double;
+    border-color:blue;
+    border-width: 1vh;
+    
+  
+}
