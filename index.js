@@ -20,7 +20,7 @@ text=text+" "+number
 teksti1.value=text
  }
 
- function fshi(){
+ function onDelete(){
     let textvalue =teksti1.value
     
     console.log(textvalue)
